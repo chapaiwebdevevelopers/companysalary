@@ -10,3 +10,9 @@ console.log( "there is Problem where the Floating Money if we add all the Employ
 
 console.log("Way 1 : company Fractional Cash Remaind"+ companyFractionalCash);
 console.log("Way 2 : company Fractional Cash Remaind"+ companyFractionalCashAnother);
+
+
+console.log(10 + "5");
+
+
+
